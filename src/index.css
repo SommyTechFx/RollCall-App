@@ -1,13 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+  padding: 0;
+  background: #001B2E ;
 
+  }
+ 
+  montserrat-alternates-regular {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+
+.learnable{
+  font-size: large;
+  text-align: center;
+  margin-top: 100px;
+}
+
+
+
+.Styling{
+  background-color: #294C60;
+  padding: 8px 16px;
+  margin: 8px 16px;
+  border-top-left-radius: 50px;
+  
+  
+
+}
+
+.drop{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2px;
+  background-color: #EEE5E9;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 5px;
+  padding: 5px 10px;
+  margin: 5px 10px;
 }
