@@ -23,15 +23,15 @@ const Dropdown = ({name, score, bonus, grade}) => {
 
     {(show && <div >
         <div className='drop'>
-        <div>Full-Name: Aningwu Chisom </div>
-        <div>Learning Path: Frontend</div>
+        <div>Full-Name:  </div>
+        <div>Learning Path:</div>
     
     
         </div>
        
        <div className='drop'>
-       <div>Current Rank: 20</div>
-        <div>Previous Rank: 150</div>
+       <div>Current Rank: </div>
+        <div>Previous Rank: </div>
     
     
        </div>
